@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="firstNumEditText">Enter a number</string>
+    <string name="secondNumEditText">Enter a number</string>
+    <string name="addBtn">Add</string>
+    <string name="resultTextView">Result</string>
+    <string name="enter_a_number">Enter a number</string>
+</resources>
